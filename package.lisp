@@ -1,4 +1,4 @@
 ;;;; package.lisp
 
 (defpackage #:pathtracer
-  (:use #:cl))
+  (:use #:cl :3d-matrices :3d-vectors))
